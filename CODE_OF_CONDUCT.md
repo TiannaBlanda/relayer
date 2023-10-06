@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+! Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -14,8 +14,8 @@ religion, or sexual identity and orientation.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
+! Using welcoming and inclusive language
+# Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
@@ -72,3 +72,4 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 [homepage]: https://www.contributor-covenant.org
 [community@interchain.io]: mailto:community@interchain.io
+ 
